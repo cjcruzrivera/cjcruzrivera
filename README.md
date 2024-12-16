@@ -43,12 +43,6 @@ Soy **Ingeniero de Sistemas** con una sólida experiencia en desarrollo de softw
 
 ---
 
-## 📊 Estadísticas
-
-![Camilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cjcruzrivera&show_icons=true&theme=radical)
-
----
-
 ## 🎯 Objetivo Profesional
 Estoy buscando oportunidades para trabajar en proyectos desafiantes donde pueda aplicar mi experiencia en desarrollo de software, arquitectura backend y optimización de sistemas.
 
